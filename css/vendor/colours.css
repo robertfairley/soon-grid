@@ -1,0 +1,92 @@
+/*
+
+
+
+
+*****************************************
+*****************************************
+**                                     **
+**  (C) 2016 soon digital              **
+**  http://soon.digital/               **
+**                                     **
+**  Author: Robert Fairley             **
+**  http://robertfairley.com           **
+**                                     **
+*****************************************
+*****************************************
+
+
+
+
+*/
+
+
+
+/*////////////////////////////////////////////////////////////////////////////*/
+/*                                                                           */
+/*                                COLOURS                                   */
+/*                                                                         */
+/*////////////////////////////////////////////////////////////////////////*/
+
+.brand {
+  min-width:32px;
+  min-height: 32px;
+  width: 10%;
+  height: 10%;
+  max-width: 256px;
+  max-height: 256px;
+}
+.soon-red {
+  background-color: #A81306;
+}
+.soon-red-text {
+  color: #A81306;
+}
+.soon-red.lighten-1 {
+  background-color: #C13C30;
+}
+.soon-red-text.text-lighten-1 {
+  color: #C13C30;
+}
+.soon-red.lighten-2 {
+  background-color: #DC5C51;
+}
+.soon-red-text.text-lighten-2 {
+  color: #DC5C51;
+}
+.soon-red.lighten-3 {
+  background-color: #EE786D;
+}
+.soon-red-text.text-lighten-3 {
+  color: #EE786D;
+}
+.soon-red.lighten-4 {
+  background-color: #F99188;
+}
+.soon-red-text.text-lighten-4 {
+  color: #F99188;
+}
+.soon-red.lighten-5 {
+  background-color: #F9AFA8;
+}
+.soon-red-text.text-lighten-5 {
+  color: #F9AFA8;
+}
+.soon-red.lighten-6 {
+  background-color: #FDC8C4;
+}
+.soon-red-text.text-lighten-6 {
+  color: #FDC8C4;
+}
+.soon-red.lighten-7 {
+  background-color: #FFE2E0;
+}
+.soon-red-text.text-lighten-7 {
+  color: #FFE2E0;
+}
+.white {
+  background-color: #FFFFFF;
+}
+.white-text {
+  color: #FFFFFF;
+}
